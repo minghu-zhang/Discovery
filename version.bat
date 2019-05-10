@@ -17,4 +17,4 @@
 
 call mvn versions:set -DnewVersion=4.8.2.3
 
-pause
+pause test
